@@ -1,0 +1,128 @@
+C:\Users\elibo\source\repos\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.csprojAssemblyReference.cache
+C:\Users\elibo\source\repos\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmAnaSayfa.resources
+C:\Users\elibo\source\repos\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmMusteriEkle.resources
+C:\Users\elibo\source\repos\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.Properties.Resources.resources
+C:\Users\elibo\source\repos\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.csproj.GenerateResource.cache
+C:\Users\elibo\source\repos\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.csproj.CoreCompileInputs.cache
+C:\Users\elibo\source\repos\Arac_Kiralama\Arac_Kiralama\bin\Debug\Arac_Kiralama.exe.config
+C:\Users\elibo\source\repos\Arac_Kiralama\Arac_Kiralama\bin\Debug\Arac_Kiralama.exe
+C:\Users\elibo\source\repos\Arac_Kiralama\Arac_Kiralama\bin\Debug\Arac_Kiralama.pdb
+C:\Users\elibo\source\repos\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmAracKayit.resources
+C:\Users\elibo\source\repos\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmAracListele.resources
+C:\Users\elibo\source\repos\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmMusteriListele.resources
+C:\Users\elibo\source\repos\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.exe
+C:\Users\elibo\source\repos\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.pdb
+C:\Users\elibo\source\repos\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmSozlesme.resources
+C:\Users\elibo\source\repos\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmSatis.resources
+C:\Users\elifg\OneDrive\Belgeler\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\bin\Debug\Arac_Kiralama.exe.config
+C:\Users\elifg\OneDrive\Belgeler\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\bin\Debug\Arac_Kiralama.exe
+C:\Users\elifg\OneDrive\Belgeler\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\bin\Debug\Arac_Kiralama.pdb
+C:\Users\elifg\OneDrive\Belgeler\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.csprojAssemblyReference.cache
+C:\Users\elifg\OneDrive\Belgeler\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmAnaSayfa.resources
+C:\Users\elifg\OneDrive\Belgeler\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmAracKayit.resources
+C:\Users\elifg\OneDrive\Belgeler\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmAracListele.resources
+C:\Users\elifg\OneDrive\Belgeler\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmMusteriEkle.resources
+C:\Users\elifg\OneDrive\Belgeler\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmMusteriListele.resources
+C:\Users\elifg\OneDrive\Belgeler\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmSatis.resources
+C:\Users\elifg\OneDrive\Belgeler\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmSozlesme.resources
+C:\Users\elifg\OneDrive\Belgeler\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.Properties.Resources.resources
+C:\Users\elifg\OneDrive\Belgeler\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.csproj.GenerateResource.cache
+C:\Users\elifg\OneDrive\Belgeler\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.csproj.CoreCompileInputs.cache
+C:\Users\elifg\OneDrive\Belgeler\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.exe
+C:\Users\elifg\OneDrive\Belgeler\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.pdb
+C:\Users\elibo\OneDrive\Masaüstü\Yeni klasör\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\bin\Debug\Arac_Kiralama.exe.config
+C:\Users\elibo\OneDrive\Masaüstü\Yeni klasör\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\bin\Debug\Arac_Kiralama.exe
+C:\Users\elibo\OneDrive\Masaüstü\Yeni klasör\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\bin\Debug\Arac_Kiralama.pdb
+C:\Users\elibo\OneDrive\Masaüstü\Yeni klasör\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.csprojAssemblyReference.cache
+C:\Users\elibo\OneDrive\Masaüstü\Yeni klasör\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmAnaSayfa.resources
+C:\Users\elibo\OneDrive\Masaüstü\Yeni klasör\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmAracKayit.resources
+C:\Users\elibo\OneDrive\Masaüstü\Yeni klasör\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmAracListele.resources
+C:\Users\elibo\OneDrive\Masaüstü\Yeni klasör\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmMusteriEkle.resources
+C:\Users\elibo\OneDrive\Masaüstü\Yeni klasör\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmMusteriListele.resources
+C:\Users\elibo\OneDrive\Masaüstü\Yeni klasör\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmSatis.resources
+C:\Users\elibo\OneDrive\Masaüstü\Yeni klasör\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmSozlesme.resources
+C:\Users\elibo\OneDrive\Masaüstü\Yeni klasör\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.Properties.Resources.resources
+C:\Users\elibo\OneDrive\Masaüstü\Yeni klasör\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.csproj.GenerateResource.cache
+C:\Users\elibo\OneDrive\Masaüstü\Yeni klasör\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.csproj.CoreCompileInputs.cache
+C:\Users\elibo\OneDrive\Masaüstü\Yeni klasör\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.exe
+C:\Users\elibo\OneDrive\Masaüstü\Yeni klasör\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.pdb
+C:\Users\elibo\OneDrive\Masaüstü\Proje\Arac_Kiralama (2)\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\bin\Debug\Arac_Kiralama.exe.config
+C:\Users\elibo\OneDrive\Masaüstü\Proje\Arac_Kiralama (2)\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\bin\Debug\Arac_Kiralama.exe
+C:\Users\elibo\OneDrive\Masaüstü\Proje\Arac_Kiralama (2)\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\bin\Debug\Arac_Kiralama.pdb
+C:\Users\elibo\OneDrive\Masaüstü\Proje\Arac_Kiralama (2)\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.csprojAssemblyReference.cache
+C:\Users\elibo\OneDrive\Masaüstü\Proje\Arac_Kiralama (2)\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmAnaSayfa.resources
+C:\Users\elibo\OneDrive\Masaüstü\Proje\Arac_Kiralama (2)\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmAracKayit.resources
+C:\Users\elibo\OneDrive\Masaüstü\Proje\Arac_Kiralama (2)\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmAracListele.resources
+C:\Users\elibo\OneDrive\Masaüstü\Proje\Arac_Kiralama (2)\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmMusteriEkle.resources
+C:\Users\elibo\OneDrive\Masaüstü\Proje\Arac_Kiralama (2)\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmMusteriListele.resources
+C:\Users\elibo\OneDrive\Masaüstü\Proje\Arac_Kiralama (2)\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmSatis.resources
+C:\Users\elibo\OneDrive\Masaüstü\Proje\Arac_Kiralama (2)\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmSozlesme.resources
+C:\Users\elibo\OneDrive\Masaüstü\Proje\Arac_Kiralama (2)\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.Properties.Resources.resources
+C:\Users\elibo\OneDrive\Masaüstü\Proje\Arac_Kiralama (2)\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.csproj.GenerateResource.cache
+C:\Users\elibo\OneDrive\Masaüstü\Proje\Arac_Kiralama (2)\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.csproj.CoreCompileInputs.cache
+C:\Users\elibo\OneDrive\Masaüstü\Proje\Arac_Kiralama (2)\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.exe
+C:\Users\elibo\OneDrive\Masaüstü\Proje\Arac_Kiralama (2)\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.pdb
+C:\Users\elibo\OneDrive\Masaüstü\Kod\Arac_Kiralama\Arac_Kiralama\bin\Debug\Arac_Kiralama.exe.config
+C:\Users\elibo\OneDrive\Masaüstü\Kod\Arac_Kiralama\Arac_Kiralama\bin\Debug\Arac_Kiralama.exe
+C:\Users\elibo\OneDrive\Masaüstü\Kod\Arac_Kiralama\Arac_Kiralama\bin\Debug\Arac_Kiralama.pdb
+C:\Users\elibo\OneDrive\Masaüstü\Kod\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.csprojAssemblyReference.cache
+C:\Users\elibo\OneDrive\Masaüstü\Kod\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmAnaSayfa.resources
+C:\Users\elibo\OneDrive\Masaüstü\Kod\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmAracKayit.resources
+C:\Users\elibo\OneDrive\Masaüstü\Kod\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmAracListele.resources
+C:\Users\elibo\OneDrive\Masaüstü\Kod\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmMusteriEkle.resources
+C:\Users\elibo\OneDrive\Masaüstü\Kod\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmMusteriListele.resources
+C:\Users\elibo\OneDrive\Masaüstü\Kod\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmSatis.resources
+C:\Users\elibo\OneDrive\Masaüstü\Kod\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmSozlesme.resources
+C:\Users\elibo\OneDrive\Masaüstü\Kod\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.Properties.Resources.resources
+C:\Users\elibo\OneDrive\Masaüstü\Kod\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.csproj.GenerateResource.cache
+C:\Users\elibo\OneDrive\Masaüstü\Kod\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.csproj.CoreCompileInputs.cache
+C:\Users\elibo\OneDrive\Masaüstü\Kod\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.exe
+C:\Users\elibo\OneDrive\Masaüstü\Kod\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.pdb
+C:\Users\elibo\OneDrive\Masaüstü\Dersler\Proje\proje yeni sonnnnn\Kod\Arac_Kiralama\Arac_Kiralama\bin\Debug\Arac_Kiralama.exe.config
+C:\Users\elibo\OneDrive\Masaüstü\Dersler\Proje\proje yeni sonnnnn\Kod\Arac_Kiralama\Arac_Kiralama\bin\Debug\Arac_Kiralama.exe
+C:\Users\elibo\OneDrive\Masaüstü\Dersler\Proje\proje yeni sonnnnn\Kod\Arac_Kiralama\Arac_Kiralama\bin\Debug\Arac_Kiralama.pdb
+C:\Users\elibo\OneDrive\Masaüstü\Dersler\Proje\proje yeni sonnnnn\Kod\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.csprojAssemblyReference.cache
+C:\Users\elibo\OneDrive\Masaüstü\Dersler\Proje\proje yeni sonnnnn\Kod\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmAnaSayfa.resources
+C:\Users\elibo\OneDrive\Masaüstü\Dersler\Proje\proje yeni sonnnnn\Kod\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmAracKayit.resources
+C:\Users\elibo\OneDrive\Masaüstü\Dersler\Proje\proje yeni sonnnnn\Kod\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmAracListele.resources
+C:\Users\elibo\OneDrive\Masaüstü\Dersler\Proje\proje yeni sonnnnn\Kod\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmMusteriEkle.resources
+C:\Users\elibo\OneDrive\Masaüstü\Dersler\Proje\proje yeni sonnnnn\Kod\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmMusteriListele.resources
+C:\Users\elibo\OneDrive\Masaüstü\Dersler\Proje\proje yeni sonnnnn\Kod\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmSatis.resources
+C:\Users\elibo\OneDrive\Masaüstü\Dersler\Proje\proje yeni sonnnnn\Kod\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmSozlesme.resources
+C:\Users\elibo\OneDrive\Masaüstü\Dersler\Proje\proje yeni sonnnnn\Kod\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.Properties.Resources.resources
+C:\Users\elibo\OneDrive\Masaüstü\Dersler\Proje\proje yeni sonnnnn\Kod\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.csproj.GenerateResource.cache
+C:\Users\elibo\OneDrive\Masaüstü\Dersler\Proje\proje yeni sonnnnn\Kod\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.csproj.CoreCompileInputs.cache
+C:\Users\elibo\OneDrive\Masaüstü\Dersler\Proje\proje yeni sonnnnn\Kod\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.exe
+C:\Users\elibo\OneDrive\Masaüstü\Dersler\Proje\proje yeni sonnnnn\Kod\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.pdb
+C:\Users\elifg\Documents\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\bin\Debug\Arac_Kiralama.exe.config
+C:\Users\elifg\Documents\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\bin\Debug\Arac_Kiralama.exe
+C:\Users\elifg\Documents\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\bin\Debug\Arac_Kiralama.pdb
+C:\Users\elifg\Documents\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.csproj.AssemblyReference.cache
+C:\Users\elifg\Documents\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmAnaSayfa.resources
+C:\Users\elifg\Documents\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmAracKayit.resources
+C:\Users\elifg\Documents\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmAracListele.resources
+C:\Users\elifg\Documents\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmMusteriEkle.resources
+C:\Users\elifg\Documents\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmMusteriListele.resources
+C:\Users\elifg\Documents\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmSatis.resources
+C:\Users\elifg\Documents\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmSozlesme.resources
+C:\Users\elifg\Documents\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.Properties.Resources.resources
+C:\Users\elifg\Documents\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.csproj.GenerateResource.cache
+C:\Users\elifg\Documents\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.csproj.CoreCompileInputs.cache
+C:\Users\elifg\Documents\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.exe
+C:\Users\elifg\Documents\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.pdb
+C:\Users\elifg\Documents\Arac_Kiralama\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\bin\Debug\Arac_Kiralama.exe.config
+C:\Users\elifg\Documents\Arac_Kiralama\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\bin\Debug\Arac_Kiralama.exe
+C:\Users\elifg\Documents\Arac_Kiralama\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\bin\Debug\Arac_Kiralama.pdb
+C:\Users\elifg\Documents\Arac_Kiralama\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.csproj.AssemblyReference.cache
+C:\Users\elifg\Documents\Arac_Kiralama\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmAnaSayfa.resources
+C:\Users\elifg\Documents\Arac_Kiralama\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmAracKayit.resources
+C:\Users\elifg\Documents\Arac_Kiralama\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmAracListele.resources
+C:\Users\elifg\Documents\Arac_Kiralama\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmMusteriEkle.resources
+C:\Users\elifg\Documents\Arac_Kiralama\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmMusteriListele.resources
+C:\Users\elifg\Documents\Arac_Kiralama\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmSatis.resources
+C:\Users\elifg\Documents\Arac_Kiralama\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.frmSozlesme.resources
+C:\Users\elifg\Documents\Arac_Kiralama\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.Properties.Resources.resources
+C:\Users\elifg\Documents\Arac_Kiralama\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.csproj.GenerateResource.cache
+C:\Users\elifg\Documents\Arac_Kiralama\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.csproj.CoreCompileInputs.cache
+C:\Users\elifg\Documents\Arac_Kiralama\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.exe
+C:\Users\elifg\Documents\Arac_Kiralama\proje son hali\Arac_Kiralama\Arac_Kiralama\Arac_Kiralama\obj\Debug\Arac_Kiralama.pdb
